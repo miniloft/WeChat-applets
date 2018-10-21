@@ -51,23 +51,12 @@ Demo
 ```
 
 
-<figure style="display: flex;flex-direction: row;" class="third">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-1.png">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-2.png">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-3.png">
-</figure>
-
-<figure style="display: flex;flex-direction: row;" class="third">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-4.png">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-5.png">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-6.png">
-</figure>
-
-<figure style="display: flex;flex-direction: row;" class="third">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-7.png">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/12.png">
-    <img src="https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-3.png">
-</figure>
+![兰州小红鸡](https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-1.png)
+![兰州小红鸡](https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-2.png)
+![兰州小红鸡](https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-3.png)
+![兰州小红鸡](https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-4.png)
+![兰州小红鸡](https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-5.png)
+![兰州小红鸡](https://picture-1256429518.cos.ap-chengdu.myqcloud.com/blog/2018-10-21-7.png)
 
 
 > 小程序的的核心代码在study页（代码较烂，有点看不下
